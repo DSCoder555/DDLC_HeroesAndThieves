@@ -25,7 +25,9 @@ label start:
     $ s_name = "???"
     $ m_name = "Ammaar's crush"
     $ n_name = "Girl 2"
-    $ y_name = "Man"
+    $ y_name = "Yuri"
+    $ h_name = "Man"
+    $ r_name = "Mysterious Driver"
     $ mc = "Player"
 
     # This variable controls whether the quick menu in the textbox is enabled.
